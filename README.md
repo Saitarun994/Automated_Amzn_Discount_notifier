@@ -1,1 +1,1 @@
-Automated Amazon Product Discount Notifier
+# Automated Amazon Product Discount Notifier
