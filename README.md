@@ -7,6 +7,7 @@
 A python automation script, given the link of an amazon product it automatically performs webscraping every "x" seconds/hours/days to notify you about a discount or price drop in that product and send you an email notification.
 
 ## 🔑 Key Feature
+- Scrapes webpages every x sec/hour/day to obtain upto date product info 
 - Creates a time-series database for the product and stores it in a CSV
 - Sends a notification email when the product attributes (Price) reaches desired level
 
