@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/Logo%20discount%20scout.png" width="640" height ="360">
+<img src="/logo.png">
 </h1> 
 
 # Automated Amazon Discount Notifier
