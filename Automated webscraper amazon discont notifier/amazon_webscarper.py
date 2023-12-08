@@ -12,7 +12,7 @@ def send_mail(to, subject,body):
     server.ehlo()
     #server.starttls()
     server.ehlo()
-    server.login("taruns994@gmail.com", "gmail-app-key")
+    server.login("taruns994@gmail.com", "zlgm djgy cldt hzjv")
     message = f"Subject: {subject}\n\n{body}"
     server.sendmail("taruns994@gmail.com", to, message)
     server.close()
